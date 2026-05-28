@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://rkey.rent/:path*",
+      "permanent": true
+    }
+  ]
+}
